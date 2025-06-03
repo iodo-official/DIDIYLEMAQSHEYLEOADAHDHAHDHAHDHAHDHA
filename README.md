@@ -19,7 +19,7 @@ Make sure you have the following installed:
 ### Steps
 
 ```bash
-git clone https://github.com/zer-far/spurt
+git clone https://github.com/iodo-official/spurt
 cd spurt
 make
 ```
